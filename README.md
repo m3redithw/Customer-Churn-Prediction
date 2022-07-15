@@ -199,3 +199,13 @@ In this project, we will use statistical testing to analyze the key factors of c
 ▪️ Offer discount on device protection, streaming tv and streaming movies services
 
 ▪️ Offer online security, online backup, tech support services for free for one-year and two-year contracts customers
+
+<img width="985" alt="revenue_predictions" src="https://user-images.githubusercontent.com/105242871/179146427-9d27fc1f-9e83-4f54-b2ac-eef1f6048a26.png">
+
+
+## 🔜  Next Steps
+▪️ Collect more data on customers' **demographic information** (eg. place of residence, socio-economic data such as occupation, household income.)
+
+▪️ Develop machine learning models with higher accuracy with these additonal data and more accurate features.
+
+▪️ Conduct **price discrimination analysis** to further determine the price point for each contract type and service.
