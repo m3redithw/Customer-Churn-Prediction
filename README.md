@@ -131,7 +131,7 @@ In this project, we will use statistical testing to analyze the key factors of c
 
 - Gather and sort churn rate from each driver into .xlsx file
 
-- Import [churn_rates.xlsx](churn_rates.xlsx) and store the data in the form of datafram
+- Import [churn_rates.xlsx](churn_rates.xlsx) and store the data in the form of dataframe
 
 - Create visualizations for the churn rate for each variable
 
